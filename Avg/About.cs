@@ -25,7 +25,7 @@ namespace AverageValue
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Process.Start("");
+            Process.Start("https://github.com/RE8014/AverageValue");
             //url for github repository
         }
     }
