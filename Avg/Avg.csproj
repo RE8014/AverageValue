@@ -134,7 +134,6 @@
   <ItemGroup>
     <Content Include="favicon %282%29.ico" />
     <None Include="Resources\AVGicon.png" />
-    <None Include="Resources\r6YemvF9_400x400.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
