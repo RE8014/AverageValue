@@ -6,6 +6,9 @@
 <a href="https://github.com/RE8014/AverageValue/issues">
   <img src="https://img.shields.io/github/issues/RE8014/AverageValue">
 </a>
+<a href="https://github.com/RE8014/AverageValue/pulls">
+  <img src="https://img.shields.io/github/issues-pr/RE8014/AverageValue">
+</a>
 <a href="https://github.com/RE8014/AverageValue/stargazers">
   <img src="https://img.shields.io/github/stars/RE8014/AverageValue">
 </a>
