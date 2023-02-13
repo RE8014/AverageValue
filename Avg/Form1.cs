@@ -35,14 +35,12 @@ namespace Avg
 
         private void button2_Click(object sender, EventArgs e)
         {
-            bool t1 = int.TryParse(textBox1.Text, out _);
-            bool t2 = int.TryParse(textBox2.Text, out _);
-
+            int n1, n2;
+            bool t1 = int.TryParse(textBox1.Text, out n1);
+            bool t2 = int.TryParse(textBox2.Text, out n2);
 
             if (t1 && t2)
             {
-                int n1 = int.Parse(textBox1.Text);
-                int n2 = int.Parse(textBox2.Text);
                 int avg = (n1 + n2) / 2;
                 label6.BackColor = Color.FromArgb(133, 178, 255);
                 label6.Text = avg.ToString();
