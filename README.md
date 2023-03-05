@@ -1,5 +1,4 @@
 <p align="center"><img src="https://cdn.discordapp.com/attachments/764012179421790208/1081927485459022017/AVGicon.png" width="200px"></p>
-<br>
 
 # AverageValue
 
