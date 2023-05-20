@@ -61,7 +61,6 @@
             this.label1.Size = new System.Drawing.Size(70, 22);
             this.label1.TabIndex = 2;
             this.label1.Text = "Num1 :";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -72,7 +71,6 @@
             this.label2.Size = new System.Drawing.Size(70, 22);
             this.label2.TabIndex = 2;
             this.label2.Text = "Num2 :";
-            this.label2.Click += new System.EventHandler(this.label1_Click);
             // 
             // textBox1
             // 
@@ -81,7 +79,6 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 21);
             this.textBox1.TabIndex = 3;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label4
             // 
@@ -93,7 +90,6 @@
             this.label4.TabIndex = 1;
             this.label4.Text = "Please enter two numbers :";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label5
             // 
@@ -104,7 +100,6 @@
             this.label5.Size = new System.Drawing.Size(74, 22);
             this.label5.TabIndex = 2;
             this.label5.Text = "Result :";
-            this.label5.Click += new System.EventHandler(this.label1_Click);
             // 
             // textBox2
             // 
@@ -122,7 +117,6 @@
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(100, 22);
             this.label6.TabIndex = 2;
-            this.label6.Click += new System.EventHandler(this.label1_Click);
             // 
             // button2
             // 

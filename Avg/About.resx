@@ -118,7 +118,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="textBox1.Text" xml:space="preserve">
-    <value>UPDATE v1.0.2 (Latest) :
+    <value>UPDATE v1.1.2 (Latest) : 
+   Changes
+    - Removed useless syntax
+    - Fix bugs
+
+UPDATE v1.0.2 (Latest) :
    Changes
     - Added changelog
     - Make the code more tidy and clear

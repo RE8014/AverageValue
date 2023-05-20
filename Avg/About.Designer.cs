@@ -60,7 +60,6 @@
             this.label2.Size = new System.Drawing.Size(62, 22);
             this.label2.TabIndex = 0;
             this.label2.Text = "v1.0.2";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
@@ -71,7 +70,6 @@
             this.label3.Size = new System.Drawing.Size(81, 22);
             this.label3.TabIndex = 0;
             this.label3.Text = "RE8014";
-            this.label3.Click += new System.EventHandler(this.label2_Click);
             // 
             // button1
             // 
@@ -104,7 +102,6 @@
             this.label4.Size = new System.Drawing.Size(228, 14);
             this.label4.TabIndex = 0;
             this.label4.Text = "Copyright © 2023 RE8014. All rights reserved.";
-            this.label4.Click += new System.EventHandler(this.label2_Click);
             // 
             // label5
             // 
@@ -115,7 +112,6 @@
             this.label5.Size = new System.Drawing.Size(309, 19);
             this.label5.TabIndex = 0;
             this.label5.Text = "An application about averaging two value.";
-            this.label5.Click += new System.EventHandler(this.label2_Click);
             // 
             // label6
             // 
@@ -126,7 +122,6 @@
             this.label6.Size = new System.Drawing.Size(121, 24);
             this.label6.TabIndex = 0;
             this.label6.Text = "Changelog :";
-            this.label6.Click += new System.EventHandler(this.label2_Click);
             // 
             // textBox1
             // 
