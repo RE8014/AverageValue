@@ -101,7 +101,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(228, 14);
             this.label4.TabIndex = 0;
-            this.label4.Text = "Copyright © 2023 RE8014. All rights reserved.";
+            this.label4.Text = "Copyright © 2024 RE8014. All rights reserved.";
             // 
             // label5
             // 
