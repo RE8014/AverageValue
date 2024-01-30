@@ -118,12 +118,17 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="textBox1.Text" xml:space="preserve">
-    <value>UPDATE v1.1.2 (Latest) : 
+    <value>UPDATE v1.1.3 :
+  Changes
+    - About - 2023 &gt; 2024
+    - Solved signature issuea
+
+UPDATE v1.1.2 (Latest) : 
    Changes
     - Removed useless syntax
     - Fixed bugs
 
-UPDATE v1.0.2 (Latest) :
+UPDATE v1.0.2 :
    Changes
     - Added changelog
     - Make the code more tidy and clear
